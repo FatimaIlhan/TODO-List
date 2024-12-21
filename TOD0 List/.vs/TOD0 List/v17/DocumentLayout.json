@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Somali Community\\Desktop\\TODO-List\\TOD0 List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E66343-8FFD-4902-A776-A681C2808DA8}|TOD0 List\\TOD0 List.csproj|c:\\users\\somali community\\desktop\\todo-list\\tod0 list\\tod0 list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E66343-8FFD-4902-A776-A681C2808DA8}|TOD0 List\\TOD0 List.csproj|solutionrelative:tod0 list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Somali Community\\Desktop\\TODO-List\\TOD0 List\\TOD0 List\\Program.cs",
+              "RelativeDocumentMoniker": "TOD0 List\\Program.cs",
+              "ToolTip": "C:\\Users\\Somali Community\\Desktop\\TODO-List\\TOD0 List\\TOD0 List\\Program.cs",
+              "RelativeToolTip": "TOD0 List\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:51:37.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
