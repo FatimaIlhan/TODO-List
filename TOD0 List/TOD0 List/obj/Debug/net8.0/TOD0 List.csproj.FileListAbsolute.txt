@@ -1,0 +1,15 @@
+C:\Users\Somali Community\Desktop\TODO-List\TOD0 List\TOD0 List\bin\Debug\net8.0\TOD0 List.exe
+C:\Users\Somali Community\Desktop\TODO-List\TOD0 List\TOD0 List\bin\Debug\net8.0\TOD0 List.deps.json
+C:\Users\Somali Community\Desktop\TODO-List\TOD0 List\TOD0 List\bin\Debug\net8.0\TOD0 List.runtimeconfig.json
+C:\Users\Somali Community\Desktop\TODO-List\TOD0 List\TOD0 List\bin\Debug\net8.0\TOD0 List.dll
+C:\Users\Somali Community\Desktop\TODO-List\TOD0 List\TOD0 List\bin\Debug\net8.0\TOD0 List.pdb
+C:\Users\Somali Community\Desktop\TODO-List\TOD0 List\TOD0 List\obj\Debug\net8.0\TOD0 List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somali Community\Desktop\TODO-List\TOD0 List\TOD0 List\obj\Debug\net8.0\TOD0 List.AssemblyInfoInputs.cache
+C:\Users\Somali Community\Desktop\TODO-List\TOD0 List\TOD0 List\obj\Debug\net8.0\TOD0 List.AssemblyInfo.cs
+C:\Users\Somali Community\Desktop\TODO-List\TOD0 List\TOD0 List\obj\Debug\net8.0\TOD0 List.csproj.CoreCompileInputs.cache
+C:\Users\Somali Community\Desktop\TODO-List\TOD0 List\TOD0 List\obj\Debug\net8.0\TOD0 List.sourcelink.json
+C:\Users\Somali Community\Desktop\TODO-List\TOD0 List\TOD0 List\obj\Debug\net8.0\TOD0 List.dll
+C:\Users\Somali Community\Desktop\TODO-List\TOD0 List\TOD0 List\obj\Debug\net8.0\refint\TOD0 List.dll
+C:\Users\Somali Community\Desktop\TODO-List\TOD0 List\TOD0 List\obj\Debug\net8.0\TOD0 List.pdb
+C:\Users\Somali Community\Desktop\TODO-List\TOD0 List\TOD0 List\obj\Debug\net8.0\TOD0 List.genruntimeconfig.cache
+C:\Users\Somali Community\Desktop\TODO-List\TOD0 List\TOD0 List\obj\Debug\net8.0\ref\TOD0 List.dll

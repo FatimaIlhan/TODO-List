@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TOD0 List")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa8a9927aafebe3ede6a1c2695079373ab3bd8a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8b0b8e6e305e5a78437b39d9c1b51813628cb26")]
 [assembly: System.Reflection.AssemblyProductAttribute("TOD0 List")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TOD0 List")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
